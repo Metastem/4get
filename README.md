@@ -2,7 +2,7 @@
 
 # 4get search
 **4get** is a proxy search engine that doesn't suck.
-
+**This is a mirror of https://git.lolcat.ca/lolcat/4get**
 ## About 4get
 https://4get.ca/about
 
